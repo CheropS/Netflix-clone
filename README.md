@@ -4,4 +4,4 @@
 #To get started:
 #Clone https://github.com/CheropS/Netflix-clone.git into your local machine
 #Cd into it
-#Open with your favorite code reader
+Open with your favorite code reader
