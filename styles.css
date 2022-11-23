@@ -1,0 +1,65 @@
+
+.bkground {
+    background-image: url('/assets/KE-en-20221114-popsignuptwoweeks-perspective_alpha_website_large.jpg');
+    height: 700px;
+}
+
+.bt1 {
+    background-color: red;
+    height: 40px;
+    color: white;
+    width: 100px;
+    text-align: center;
+    font-size: larger;
+    float: right;
+    margin-top: 10px;
+    margin-right: 40px;
+}
+#logo{
+    margin-left: 40px;
+    margin-top: 10px;
+}
+.ctr{
+    text-align: center;
+    font-size: larger;
+    color: white;
+    margin-top: 150px;
+}
+.ft{
+    font-size: xx-large;
+    font-weight: 200;
+}
+.pt{
+    font-size: larger;
+    font-weight: 100;
+}
+input {
+    height: 50px;
+    width: 500px;
+}
+#bt1{
+    background-color: red;
+    height: 60px;
+    color: white;
+    width: 300px;
+    text-align: center;
+    font-size: larger;
+    padding-left: 0%;
+}
+.group {
+    padding: 10px 24px;
+    cursor: pointer;
+    
+}
+section{
+    background-color: black;
+    color: white;
+}
+card {
+    width: 100px;
+}
+.card {
+    flex-direction: column;
+    width: 50%;
+    display: flex;
+}
